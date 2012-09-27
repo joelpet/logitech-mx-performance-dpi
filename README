@@ -1,0 +1,13 @@
+README
+======
+
+This is simply a copy of the code written by Alexander Hofbauer grabbed from his
+blog at http://derhofbauer.at/blog/blog/2012/08/28/logitech-performance-mx/ on
+September 28, 2013. The reason is that I found the code useful and would like to
+offer it others in a simple way.
+
+
+How to build
+------------
+
+Running `make` in the top directory should give you the executable.
